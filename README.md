@@ -46,6 +46,17 @@ This project focuses on building a simple compiler with the following features:
   ├── SymbolTable.cpp     # Symbol table implementation
   ├── test.txt            # Sample input file
 
+## Future Enhancements
+- Support for Multi-Line Comments.
+- Type Checking between variables.
+- Optimizations for faster compilation.
+
+## Instructor
+Sir Laeeq ul Zaman
+
+## Contributor
+Muhammad Uzair 2021-CS-17
+
 ## Acknowledgments
 Special thanks to Sir Laeeq ul Zaman for his guidance and support throughout the course.
 
